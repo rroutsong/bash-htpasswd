@@ -21,7 +21,11 @@ chmod +x htpasswd
 ```
 
 or just wrap in a function and add to your .bashrc
+or move to an executable directory in your $PATH
 
+### TODO
+Intuitive filename flag handling
+flags for different encryptions
 
 ### License
 
